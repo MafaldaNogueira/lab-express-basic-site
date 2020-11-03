@@ -1,0 +1,48 @@
+
+
+ a{
+     margin-top: 50px;
+    text-align: center;
+    text-decoration: none;
+    color:rgb(57, 104, 57) !important;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+}
+
+a:hover{
+    color: rgb(51, 138, 66);
+    border-bottom: 1px dashed rgb(55, 155, 55);
+    width: 500px;
+
+}
+
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+    color: rgb(56, 112, 56) !important;
+}
+
+
+#work {
+    width: 700px;
+    float: right;
+    margin-right: 60px;
+    line-height: 2;
+}
+
+
+.alec {
+    width: 390px;
+    float: right;
+    position: fixed;
+}
+
+.alecP {
+    float: left !important;
+    margin-left: 450px;
+    width: 700px;
+    margin-top: 150px;
+}
