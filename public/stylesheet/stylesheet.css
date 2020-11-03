@@ -4,7 +4,7 @@
      margin-top: 50px;
     text-align: center;
     text-decoration: none;
-    color:rgb(57, 104, 57) !important;
+    color:rgb(68, 31, 92) !important;
     font-weight: bold;
     display: flex;
     justify-content: center;
@@ -13,7 +13,8 @@
 
 a:hover{
     color: rgb(51, 138, 66);
-    border-bottom: 1px dashed rgb(55, 155, 55);
+    text-decoration: none !important;
+    border-bottom: 1px dashed rgb(63, 10, 70);
     width: 500px;
 
 }
@@ -22,7 +23,7 @@ a:hover{
 h1 {
     font-size: 60px;
     text-align: center;
-    color: rgb(56, 112, 56) !important;
+    color: rgb(63, 10, 70) !important;
 }
 
 
@@ -45,4 +46,20 @@ h1 {
     margin-left: 450px;
     width: 700px;
     margin-top: 150px;
+}
+
+.card {
+    height: 40px;
+     margin-top: 40px;
+  
+     margin-left: 38px;
+
+}
+
+.table thead th {
+    border:none;
+}
+
+.table thead th {
+    border-bottom: none !important;
 }
